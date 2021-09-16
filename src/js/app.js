@@ -1,4 +1,3 @@
-import { filter } from "ramda";
 import "../scss/app.scss";
 
 window.addEventListener("DOMContentLoaded", () => {
